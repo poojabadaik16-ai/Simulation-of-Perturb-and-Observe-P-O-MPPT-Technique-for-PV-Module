@@ -1,0 +1,2 @@
+# Simulation-of-Perturb-and-Observe-P-O-MPPT-Technique-for-PV-Module
+Simulated a photovoltaic (PV) module using the Perturb and Observe (P&amp;O) Maximum Power Point Tracking (MPPT) technique in MATLAB/Simulink. Analysed PV voltage, current, and power under varying operating conditions to track the maximum power point. Evaluated the system performance using the I–V and P–V characteristics of the PV module.
